@@ -1,0 +1,1 @@
+# jta-platform-manager-stury
